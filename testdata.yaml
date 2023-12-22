@@ -1,0 +1,11 @@
+path_login: 'https://test-stand.gb.ru/gateway/login'
+path_post: 'https://test-stand.gb.ru/api/posts'
+login: 'Misty Hegmann'
+password: '0b34ebddba'
+id_check: 93513
+title: 'xxx'
+description: 'xxx'
+content: 'xxx'
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 2
